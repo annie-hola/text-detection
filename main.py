@@ -15,7 +15,7 @@ text_ = reader.readtext(img)
 
 print(text_)
 
-# thresold to put text
+# threesold to put text
 threshold = 0.25 
 
 # draw bbox and text
